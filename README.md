@@ -23,6 +23,6 @@ django-admin startproject shoppygood
 # NOTE:
 ## Setup your project environment interpreter as default in VSCode
 ```
-1. Go to your project folder and type **<sub>pipenv -venv</sub>** 
+1. Go to your project folder and type <sub>pipenv -venv</sub> 
 
 ``` 
