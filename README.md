@@ -4,3 +4,18 @@
 ```
 pip3 install pipenv
 ```
+
+## 2.Install django inside virtual environment
+```
+pipenv install django
+``` 
+
+## 3. Activate virtual environment to use python interpreter inside this environment
+```
+pipenv shell
+```
+
+## 4. Start django admin project named shoppygood
+```
+django-admin startproject shoppygood
+```
